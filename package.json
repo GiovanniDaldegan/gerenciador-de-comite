@@ -1,0 +1,25 @@
+{
+  "name": "gerenciador-de-comite",
+  "version": "1.0.0",
+  "description": "Um site para facilitar o trabalho dos diretores dos comitês do Sigma-Múndi.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovanniDaldegan/gerenciador-de-comite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovanniDaldegan/gerenciador-de-comite/issues"
+  },
+  "homepage": "https://github.com/GiovanniDaldegan/gerenciador-de-comite#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
